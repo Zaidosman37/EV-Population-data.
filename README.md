@@ -21,5 +21,5 @@ Encoding,
 Scaling,
 Transformation (Didn't add because of High Skewness).
 
-I have Shared the jupyter Notebook file that explains the EDA part as well
+I have Shared the jupyter Notebook file that explains the EDA part as well as the Dataset.
 
