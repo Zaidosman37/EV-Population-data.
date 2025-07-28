@@ -8,18 +8,18 @@ Model Creation is not possible in this data for reasons such as High Skewness (L
 
 All the necessary EDA operations were performed on this dataset like :
 
-Missing Values Treatment.
-Logical Imputation.
-Unique Value Analysis.
-Feature Engineering.
-Null values Removal.
-Outliers check.
-Numerical and Categorical Split of the data.
-Univariate Analysis.
-Bivariate Analysis.
-Encoding.
-Scaling.
-Transformation (Didn't add because of High Skewness)
+Missing Values Treatment,
+Logical Imputation,
+Unique Value Analysis,
+Feature Engineering,
+Null values Removal,
+Outliers check,
+Numerical and Categorical Split of the data,
+Univariate Analysis,
+Bivariate Analysis,
+Encoding,
+Scaling,
+Transformation (Didn't add because of High Skewness).
 
 I have Shared the jupyter Notebook file that explains the EDA part as well
 
